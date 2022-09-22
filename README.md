@@ -1,3 +1,5 @@
+![banneryoushino](https://github.com/vikey3428/vikey3428/blob/main/banneryoushino.jpg?raw=true)
+
 # vike.y
 Hi, I'm writing a bot (usually on node.js/discord.js). It's better to use Discord or Gmail to contact me. [Gmail (iceme41@gmail.com)](vikey3428) | [Discord (vike.y#9306)](https://discord.com/users/999655606220771388)
 
