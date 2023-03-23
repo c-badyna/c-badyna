@@ -1,7 +1,7 @@
 ![banneryoushino](https://github.com/vikey3428/vikey3428/blob/main/imgpreview.jpg?raw=true)
 
 # Poshel naxyu
-(I'm) | [Discord (vike.y#9306)](https://discord.com/users/999655606220771388)
+.!. | [Discord (I'm)](https://discord.com/users/999655606220771388)
 
 <p align="center">
 	<b>Languages & Tools</b><br><br>
